@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    height: 250px;
+    background: linear-gradient(270deg, #3EA1DB 0%, #574AE8 100%);
+    padding: 10px;
+}
+
+
+.container {
+    width: 880px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.search {
+    height: 60px;
+    margin-top: 150px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+input {
+    margin-top: 20px;
+}
