@@ -71,6 +71,7 @@ input::placeholder {
 h1 {
     color: #000000;
     font-size: 26px;
+    margin-bottom: 10px;
 }
 
 p {
@@ -80,6 +81,7 @@ p {
 main {
     background-color: #FFFFFF;
     padding: 0 20px;
+    margin-bottom: 30px;
 }
 
 .dataheart {
